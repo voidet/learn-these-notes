@@ -1,3 +1,7 @@
 Welcome to Learn Notes. This app is your study buddy to learn the notes on your instrument. The app won't show you where they are. But this system is designed to help cement their locations in.
 
 A quick bit about why? I've been "learning" guitar on and off for years. I found myself navigating around via patterns. For the most part these octave shapes worked well. But I couldn't really look at the fretboard and point "Here is a B". I would always have to work backwards from the 5th or 6th strings to find my way. Sound familiar?
+
+So how do you start? Well for guitar, start on all strings, going up and down. This is why we have the default set to 12 steps per note. Find the note on the 6th, 5th, 4th, 3rd, 2nd all the way up to the 1st string. Then find them again on the way back down in time with the metronome. THe next letter randomly will appear. Again, go up and down the fretboard on each string.
+
+You can also just set the note interval to one. So the note changes rapidly. This will allow you to pick a string and find the notes in time with the metronome. 
